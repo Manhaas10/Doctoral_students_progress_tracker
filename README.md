@@ -1,1 +1,2 @@
-# Doctoral_students_progress_tracker
+# Doctoral-Students-Progress-Tracker
+SE Lab Team Project
