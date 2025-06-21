@@ -3,4 +3,5 @@ SE Lab Team Project
 
 
 
-Explore here: phdconnect.netlify.app
+Explore here: https://phdconnect.netlify.app
+
